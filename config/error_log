@@ -1,0 +1,4 @@
+[10-Sep-2023 17:15:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bplive/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bplive/public_html/config/cache.php on line 21
